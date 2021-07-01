@@ -13,6 +13,9 @@
 </template>
 
 <script>
+
+// first thing: npm install swiper vue-awesome-swiper --save
+
 // import Swiper and SwiperSlide
 import { Swiper, SwiperSlide } from "vue-awesome-swiper";
 
